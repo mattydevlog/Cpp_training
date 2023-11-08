@@ -6,6 +6,8 @@
 #include "GameFramework/Actor.h"
 #include "A_test.generated.h"
 
+
+
 UCLASS()
 class CPP_TRAINING_API AA_test : public AActor
 {
